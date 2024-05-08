@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/79/d2/2c/79d22caeaedf0e4742156063c6410f00.jpg" width="700" height = "200"/>
+  <img src="https://i.pinimg.com/564x/79/d2/2c/79d22caeaedf0e4742156063c6410f00.jpg" width="500" height = "200"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ziad Mohammed Fathi</h1>
 <h3 align="center">A passionate Mechatronics Engineer & Software Engineer</h3>
