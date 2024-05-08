@@ -9,13 +9,13 @@
 
 
 <p align="left"> <a href="https://twitter.com/ziadmoh4923967" target="blank"><img src="https://img.shields.io/twitter/follow/ziadmoh4923967?logo=twitter&style=for-the-badge" alt="ziadmoh4923967" /></a> </p>
-<div id="header" align="right" alt="Coding">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</div>
+
 - 🔭 I’m currently working on **Embedded Systems**
 
 - 🌱 I’m currently learning **Software Engineering**
-
+<div id="header" align="right" alt="Coding">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</div>
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ziad-mohamed-fathi-742397251](www.linkedin.com/in/ziad-mohamed-fathi-742397251)
 
 - 📫 How to reach me **zizo.alprnc.90@gmail.com**
