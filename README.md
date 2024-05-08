@@ -7,15 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadmohamed0&label=Profile%20views&color=0e75b6&style=flat" alt="ziadmohamed0" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadmohamed0" alt="ziadmohamed0" /></a> </p>
 
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" id="header" align="right" alt="Coding" width="400"/>
 
 <p align="left"> <a href="https://twitter.com/ziadmoh4923967" target="blank"><img src="https://img.shields.io/twitter/follow/ziadmoh4923967?logo=twitter&style=for-the-badge" alt="ziadmoh4923967" /></a> </p>
 
 - 🔭 I’m currently working on **Embedded Systems**
 
 - 🌱 I’m currently learning **Software Engineering**
-<div id="header" align="right" alt="Coding">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</div>
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ziad-mohamed-fathi-742397251](www.linkedin.com/in/ziad-mohamed-fathi-742397251)
 
 - 📫 How to reach me **zizo.alprnc.90@gmail.com**
