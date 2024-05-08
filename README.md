@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Mohammed Fathi</h1>
 <h3 align="center">A passionate Mechatronics Engineer & Software Engineer</h3>
 <div id="header" align="right" alt="Coding">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadmohamed0&label=Profile%20views&color=0e75b6&style=flat" alt="ziadmohamed0" /> </p>
 
