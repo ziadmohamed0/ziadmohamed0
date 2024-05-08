@@ -1,9 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/71/97/52/7197527af1c94ef552edc6d343cc82cd.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ziad Mohammed Fathi</h1>
-<h3 align="center">A passionate Mechatronics Engineer & Software Engineer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h1 align="center">Hi 👋, I'm Ziad Mohammed Fathi</h1>
+<h3 align="center">A passionate Mechatronics Engineer & Software Engineer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadmohamed0&label=Profile%20views&color=0e75b6&style=flat" alt="ziadmohamed0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadmohamed0" alt="ziadmohamed0" /></a> </p>
