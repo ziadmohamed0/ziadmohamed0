@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ziadmoh4923967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziadmoh4923967" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ziad-mohamed-fathi-742397251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-mohamed-fathi-742397251" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziad-fathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-mohamed-fathi-742397251" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24941321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24941321" height="30" width="40" /></a>
 <a href="https://fb.com/100010849450671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010849450671" height="30" width="40" /></a>
 <a href="https://instagram.com/ziadvip.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziadvip.4" height="30" width="40" /></a>
