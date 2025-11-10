@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 📫 How to reach me **[ziadfathy498@gmail.com](https://ziadabout.my.canva.site/)**
+- 📫 How to reach me **https://ziadabout.my.canva.site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
