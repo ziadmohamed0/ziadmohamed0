@@ -1,67 +1,90 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/79/d2/2c/79d22caeaedf0e4742156063c6410f00.jpg" width="500" height = "200"/>
-</div>
-<h1 align="center">Hi 👋, I'm Ziad Mohammed Fathy</h1>
-<h3 align="center">A passionate Mechatronics Engineer & Software Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadmohamed0&label=Profile%20views&color=0e75b6&style=flat" alt="ziadmohamed0" /> </p>
+# Ziad Mohammed Fathy
 
+**Mechatronics Engineer · Embedded Systems · Robotics & ROS2 · IoT**
 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" id="header" align="right" alt="Coding" width="300"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad_Fathy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-fathy/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ziadmoh4923967-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ziadmoh4923967)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ziadabout.my.canva.site-black?style=flat&logo=canva)](https://ziadabout.my.canva.site/)
+[![Email](https://img.shields.io/badge/Email-ziadfathy498@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ziadfathy498@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24941321-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24941321)
 
-<p align="left"> <a href="https://twitter.com/ziadmoh4923967" target="blank"><img src="https://img.shields.io/twitter/follow/ziadmoh4923967?logo=twitter&style=for-the-badge" alt="ziadmoh4923967" /></a> </p>
-
-- 🔭 I’m currently working on **Embedded Systems**
-
-- 🌱 I’m currently learning **Software Engineering**
-
-- 📫 How to reach me **https://ziadabout.my.canva.site/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ziadmoh4923967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziadmoh4923967" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ziad-fathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-mohamed-fathi-742397251" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24941321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24941321" height="30" width="40" /></a>
-<a href="https://fb.com/100010849450671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010849450671" height="30" width="40" /></a>
-<a href="https://instagram.com/ziadvip.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziadvip.4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zizo_alprnc_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zizo_alprnc_90" height="30" width="40" /></a>
-</p>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="embeddedC" alt="embeddedC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="filezilla" alt="filezilla" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadmohamed0&show_icons=true&locale=en&layout=compact" alt="ziadmohamed0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadmohamed0&show_icons=true&locale=en" alt="ziadmohamed0" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadmohamed0&" alt="ziadmohamed0" /></p>
+I'm a Mechatronics Engineering student at **Helwan International Technological University (HITU)**, and the **CTO & Founder of Takamul**. My work sits at the intersection of embedded hardware, robotic systems, and autonomous software — from writing bare-metal C drivers to orchestrating full ROS2 navigation stacks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadmohamed0" alt="ziadmohamed0" /></a> </p>
+Currently leading the **Robotics Team at MSP Al-Azhar** and doing Python automation scripting in parallel.
+
+- 🔭 &nbsp;Working on: **Embedded Systems & Autonomous Robotics**
+- 🌱 &nbsp;Currently learning: **Embedded Linux · Modern C++ · IIoT**
+- 📍 &nbsp;Cairo, Egypt &nbsp;|&nbsp; 📞 +20 1068817108
+
+---
+
+## Featured Projects
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 01 | **Autonomous Car — ROS2** | Self-driving vehicle with sensor fusion, navigation stack, and real-time obstacle avoidance | ROS2 · Python · OpenCV · Raspberry Pi |
+| 02 | **5 DOF Robotic Arm** | Fully articulated arm with inverse kinematics control and custom PCB driver design | Embedded C · Arduino · Kinematics |
+| 03 | **Smart Wheelchair** | Assistive mobility device with voice control, obstacle detection, and IoT telemetry dashboard | IoT · Embedded C · Firebase |
+| 04 | **Cyber Truck (Scale Model)** | RC vehicle with teleoperation, live camera feed, and autonomous lane-keeping mode | Raspberry Pi · OpenCV · Python |
+
+---
+
+## Tech Stack
+
+**Core**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=embeddedc&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Robotics & Embedded**
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+
+**Other**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadmohamed0&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmohamed0&layout=compact&theme=default&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadmohamed0&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's build something meaningful — reach me at <a href="mailto:ziadfathy498@gmail.com">ziadfathy498@gmail.com</a></sub>
+</div>
