@@ -59,6 +59,9 @@ Currently leading the **Robotics Team at MSP Al-Azhar** and doing Python automat
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white)
+![nRF](https://img.shields.io/badge/nRF-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white)
+![Matter](https://img.shields.io/badge/Matter-00B0FF?style=flat&logoColor=white)
+![microPLC](https://img.shields.io/badge/microPLC-FF6B35?style=flat&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **DevOps & Tools**
