@@ -28,12 +28,15 @@ Currently leading the **Robotics Team at MSP Al-Azhar** and doing Python automat
 
 ## Featured Projects
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 01 | **Autonomous Car — ROS2** | Self-driving vehicle with sensor fusion, navigation stack, and real-time obstacle avoidance | ROS2 · Python · OpenCV · Raspberry Pi |
-| 02 | **5 DOF Robotic Arm** | Fully articulated arm with inverse kinematics control and custom PCB driver design | Embedded C · Arduino · Kinematics |
-| 03 | **Smart Wheelchair** | Assistive mobility device with voice control, obstacle detection, and IoT telemetry dashboard | IoT · Embedded C · Firebase |
-| 04 | **Cyber Truck (Scale Model)** | RC vehicle with teleoperation, live camera feed, and autonomous lane-keeping mode | Raspberry Pi · OpenCV · Python |
+| # | Project | Period | Description | Stack |
+|---|---------|--------|-------------|-------|
+| 01 | **Sarcos Dual-Arm Robot** | Mar 2025 – Present | Dual-arm robot controlled via ESP32 and Mosquitto MQTT. Each arm has DC motors (shoulder), servos (elbow/wrist), and a multi-purpose end effector for welding, gripping, and cutting. Streams data to Node-RED and RViz2. Controlled by a wearable potentiometer suit or a Node-RED dashboard. Built in Modern C++ with ESP-IDF and Micro-ROS for real-time operation. | ESP32 · ESP-IDF · Micro-ROS · MQTT · Node-RED · Modern C++ |
+| 02 | **4-DOF Robotic Arm — MBD** | — | Model-Based Design pipeline in MATLAB/Simulink. Designed in SolidWorks, imported to Simscape Multibody. Implemented FK/IK, closed-loop Simulink control, and HIL validation with Arduino Uno R3 driving SG90 servos via real-time PWM. | MATLAB · Simulink · Simscape · SolidWorks · Arduino · HIL |
+| 03 | **Cybertruck — ROS2** | Aug – Oct 2025 | ROS2-based Cybertruck integration focusing on UART communication between Raspberry Pi and STM32 to bridge the control layer with the simulation environment. | ROS2 · STM32 · Raspberry Pi · UART |
+| 04 | **Scout Robot (Mobile)** | Sep – Oct 2025 | ESP32-driven autonomous explorer for confined-space mapping. Integrates MQTT/Node-RED control, ROS2 + SLAM Toolbox for occupancy grid mapping, and a TinyML layer for on-device movement classification and regression. | ESP32 · ROS2 · SLAM · MQTT · TinyML · Edge Impulse |
+| 05 | **Autonomous Car — ROS2** | — | Self-driving vehicle with sensor fusion, navigation stack, and real-time obstacle avoidance. | ROS2 · Python · OpenCV · Raspberry Pi |
+| 06 | **5 DOF Robotic Arm** | — | Fully articulated arm with inverse kinematics control and custom PCB driver design. | Embedded C · Arduino · Kinematics |
+| 07 | **Smart Wheelchair** | — | Assistive mobility device with voice control, obstacle detection, and IoT telemetry dashboard. | IoT · Embedded C · Firebase |
 
 ---
 
@@ -53,6 +56,9 @@ Currently leading the **Robotics Team at MSP Al-Azhar** and doing Python automat
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **DevOps & Tools**
