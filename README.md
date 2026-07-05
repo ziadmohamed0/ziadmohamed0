@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad_Fathy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-fathy/)
 [![Twitter](https://img.shields.io/badge/Twitter-@ziadmoh4923967-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ziadmoh4923967)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ziadabout.my.canva.site-black?style=flat&logo=canva)](https://ziadabout.my.canva.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ziadabout.my.canva.site-black?style=flat&logo=canva)]([https://ziadabout.my.canva.site/](https://ziadmohamed0.github.io/Ziad_portfolio/))
 [![Email](https://img.shields.io/badge/Email-ziadfathy498@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ziadfathy498@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24941321-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24941321)
 
